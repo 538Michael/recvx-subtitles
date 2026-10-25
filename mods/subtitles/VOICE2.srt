@@ -1,0 +1,1032 @@
+0
+00:00:00,000 --> 00:00:01,200
+Claire!
+
+2
+00:00:00,000 --> 00:00:02,020
+<v Claire>Hey, wake up, Steve!
+
+4
+00:00:00,000 --> 00:00:01,076
+<v Claire>Thanks.
+
+5
+00:00:00,000 --> 00:00:01,920
+<v Steve>We're... still alive!
+
+7
+00:00:00,000 --> 00:00:01,200
+<v Steve>Plane's trashed.
+
+8
+00:00:00,000 --> 00:00:03,000
+<v Steve>Well, let's split up and find another way off this oversized freezer.
+
+9
+00:00:00,000 --> 00:00:01,051
+<v Claire>Right.
+
+10
+00:00:00,000 --> 00:00:01,620
+<v Steve>Okay, let's do it!
+
+14
+00:00:00,000 --> 00:00:04,630
+<v Steve>Claire, it looks like there's an Australian observation base about seven miles away
+
+14
+00:00:04,680 --> 00:00:07,020
+<v Steve>from here. That should be our target.
+
+15
+00:00:00,000 --> 00:00:03,010
+<v Claire>Then if we can break through the wall with that digging vehicle, we might have a
+
+15
+00:00:03,060 --> 00:00:05,460
+chance. Okay. Let's do it!
+
+16
+00:00:00,000 --> 00:00:03,270
+<v Claire>Great news! And take a look at that! It's a digging vehicle!
+
+16
+00:00:03,320 --> 00:00:05,900
+<v Claire>If we break the wall with it, we might have a chance!
+
+16
+00:00:06,340 --> 00:00:08,160
+Okay! Let's do it!
+
+18
+00:00:00,000 --> 00:00:01,580
+Nooo
+
+19
+00:00:00,000 --> 00:00:01,200
+<v Claire>Steve, watch out!
+
+20
+00:00:00,000 --> 00:00:01,200
+Come on!
+
+24
+00:00:00,000 --> 00:00:01,200
+It's toxic gas!
+
+25
+00:00:00,000 --> 00:00:01,200
+Okay.
+
+33
+00:00:00,000 --> 00:00:03,920
+Ah, we're safe now. Think again, Claire.
+
+35
+00:00:00,000 --> 00:00:03,220
+<v Alexia>I shall enjoy watching you shriek in agony.
+
+36
+00:00:00,000 --> 00:00:01,260
+<v Claire>Not this time!
+
+38
+00:00:00,000 --> 00:00:01,200
+You again!
+
+44
+00:00:00,000 --> 00:00:01,260
+<v Claire>What was that?
+
+49
+00:00:00,000 --> 00:00:03,340
+<v Steve>Claire, come on! Finally we can get out of this insane place!
+
+50
+00:00:00,000 --> 00:00:01,200
+<v Claire>Okay, let's go!
+
+51
+00:00:00,000 --> 00:00:01,600
+<v Steve>Hurry up! Go, go, go!
+
+56
+00:00:00,000 --> 00:00:01,158
+<v Claire>Steve!
+
+57
+00:00:00,000 --> 00:00:02,460
+<v Claire>Hold on! I'll waste that monster and come back!
+
+59
+00:00:00,000 --> 00:00:03,160
+<v Steve>Claire, forget about me. Run!
+
+62
+00:00:00,000 --> 00:00:01,280
+<v Claire>I've got you now!
+
+64
+00:00:00,000 --> 00:00:01,200
+<v Claire>Are you alright?
+
+70
+00:00:00,000 --> 00:00:01,130
+<v Steve>Claire!
+
+70
+00:00:01,180 --> 00:00:02,380
+<v Steve>You're alive!
+
+71
+00:00:00,000 --> 00:00:01,980
+<v Claire>Don't worry about it. Let's go.
+
+74
+00:00:00,000 --> 00:00:02,480
+<v Steve>I'm sorry. I failed you.
+
+88
+00:00:00,000 --> 00:00:03,380
+<v Rodrigo>I didn't expect to find another living person left on this island.
+
+88
+00:00:03,760 --> 00:00:05,080
+<v Rodrigo>Who are you?
+
+89
+00:00:00,000 --> 00:00:02,100
+<v Chris>I came here looking for a certain girl.
+
+90
+00:00:00,000 --> 00:00:01,200
+<v Rodrigo>A girl?
+
+91
+00:00:00,000 --> 00:00:02,380
+<v Chris>Have you seen anyone named Claire Redfield?
+
+92
+00:00:00,000 --> 00:00:02,180
+<v Rodrigo>Did you just say... Claire?
+
+93
+00:00:00,000 --> 00:00:02,140
+<v Chris>You know who she is, don't you?
+
+94
+00:00:00,000 --> 00:00:01,240
+<v Rodrigo>Don't worry about her.
+
+95
+00:00:00,000 --> 00:00:01,200
+<v Rodrigo>I helped her escape.
+
+95
+00:00:01,820 --> 00:00:04,920
+<v Rodrigo>Several planes took off from this island not long ago.
+
+95
+00:00:05,280 --> 00:00:09,420
+<v Rodrigo>While I can't say for certain, she was probably on one of them.
+
+96
+00:00:00,000 --> 00:00:01,200
+<v Chris>I see.
+
+96
+00:00:01,560 --> 00:00:03,320
+<v Chris>I guess my sister owes you.
+
+96
+00:00:04,200 --> 00:00:05,540
+<v Chris>Thanks for helping her.
+
+97
+00:00:00,000 --> 00:00:01,200
+<v Rodrigo>Everyone's gone.
+
+97
+00:00:02,160 --> 00:00:04,680
+<v Rodrigo>I may be the only other person left.
+
+97
+00:00:05,580 --> 00:00:06,780
+<v Rodrigo>Go on.
+
+97
+00:00:07,260 --> 00:00:09,820
+<v Rodrigo>Follow your sister and get off this island.
+
+101
+00:00:02,340 --> 00:00:06,360
+<v Rodrigo>Looks like I can meet my family again.
+
+101
+00:00:07,960 --> 00:00:11,320
+<v Rodrigo>Here, take this.
+
+102
+00:00:00,000 --> 00:00:01,200
+<v Chris>What?
+
+103
+00:00:00,000 --> 00:00:05,930
+<v Rodrigo>She gave this to me as a token of thanks for saving
+
+103
+00:00:05,980 --> 00:00:07,180
+<v Rodrigo>her.
+
+103
+00:00:07,820 --> 00:00:11,620
+<v Rodrigo>I won't need it anymore.
+
+103
+00:00:14,960 --> 00:00:16,980
+<v Rodrigo>Take it.
+
+104
+00:00:00,000 --> 00:00:01,520
+<v Chris>I'll take you to join your family.
+
+105
+00:00:00,000 --> 00:00:01,200
+<v Chris>Who is that?
+
+106
+00:00:00,000 --> 00:00:01,440
+<v Wesker>Alexia? No!
+
+108
+00:00:00,000 --> 00:00:01,500
+<v Wesker>And she's already fully awake.
+
+110
+00:00:00,000 --> 00:00:01,082
+<v Wesker>Chris.
+
+111
+00:00:00,000 --> 00:00:02,700
+<v Wesker>I'm sending some company to keep you entertained.
+
+112
+00:00:00,000 --> 00:00:03,060
+<v Wesker>Consider this a small welcoming gift from me.
+
+113
+00:00:00,000 --> 00:00:01,200
+<v Wesker>Enjoy!
+
+115
+00:00:00,000 --> 00:00:05,308
+<v Wesker>Long time no see, Chris.
+
+116
+00:00:00,000 --> 00:00:01,200
+<v Chris>Wesker?
+
+117
+00:00:00,000 --> 00:00:01,380
+<v Chris>You're still alive?
+
+119
+00:00:00,000 --> 00:00:01,200
+<v Chris>What are you doing here?
+
+121
+00:00:00,000 --> 00:00:00,926
+<v Chris>Who?
+
+122
+00:00:00,000 --> 00:00:02,040
+<v Wesker>They hired me to capture her.
+
+123
+00:00:00,000 --> 00:00:00,990
+<v Chris>Wait!
+
+124
+00:00:00,000 --> 00:00:01,742
+<v Chris>You attacked the island!
+
+125
+00:00:00,000 --> 00:00:01,220
+<v Chris>And my sister!
+
+137
+00:00:00,000 --> 00:00:01,200
+Alexia?
+
+140
+00:00:00,000 --> 00:00:01,200
+<v Chris>Hold on, Claire.
+
+140
+00:00:01,660 --> 00:00:02,860
+<v Chris>I'll save you.
+
+141
+00:00:00,000 --> 00:00:02,340
+<v Chris>What? He's here?
+
+142
+00:00:00,000 --> 00:00:01,320
+<v Chris>Who could have done this?
+
+144
+00:00:00,000 --> 00:00:01,200
+Alexia!
+
+146
+00:00:00,000 --> 00:00:03,660
+<v Alexia>That is how I dispose of insignificant bugs.
+
+147
+00:00:00,000 --> 00:00:01,740
+<v Alexia>Set the spider to the fly.
+
+148
+00:00:00,000 --> 00:00:01,620
+<v Alexia>How do you wish to die?
+
+152
+00:00:00,000 --> 00:00:01,200
+<v Claire>Chris!
+
+153
+00:00:00,000 --> 00:00:01,200
+<v Chris>Claire.
+
+154
+00:00:00,000 --> 00:00:01,740
+<v Claire>I missed you so much.
+
+156
+00:00:00,000 --> 00:00:02,720
+<v Chris>I know, but we have to get out of here.
+
+157
+00:00:00,000 --> 00:00:02,660
+<v Claire>Not yet. We have to find Steve.
+
+158
+00:00:00,000 --> 00:00:01,200
+<v Chris>Who's Steve?
+
+159
+00:00:00,000 --> 00:00:04,450
+<v Claire>He's a boy who escaped from that island with me, but then a monster attacked us and
+
+159
+00:00:04,500 --> 00:00:05,700
+<v Claire>we got separated.
+
+160
+00:00:00,000 --> 00:00:02,440
+<v Chris>So that means Steve is still somewhere in this base?
+
+161
+00:00:00,000 --> 00:00:01,200
+<v Chris>Claire?
+
+161
+00:00:01,740 --> 00:00:02,940
+<v Chris>What's wrong?
+
+162
+00:00:00,000 --> 00:00:03,720
+<v Claire>I think... I think I've been poisoned.
+
+163
+00:00:00,000 --> 00:00:01,200
+<v Claire>I'm sure of it.
+
+164
+00:00:00,000 --> 00:00:01,200
+<v Chris>Just hold on.
+
+166
+00:00:00,000 --> 00:00:01,200
+<v Chris>Feeling better?
+
+167
+00:00:00,000 --> 00:00:01,200
+<v Claire>Thanks to you.
+
+167
+00:00:01,760 --> 00:00:06,040
+<v Claire>Just like a big brother, huh? You're always looking out for your little sister.
+
+169
+00:00:00,000 --> 00:00:01,200
+<v Chris>It's Alexia!
+
+172
+00:00:00,000 --> 00:00:01,200
+<v Chris>After her!
+
+173
+00:00:00,000 --> 00:00:01,480
+<v Chris>She might know where Steve is.
+
+174
+00:00:00,000 --> 00:00:01,200
+<v Claire>Let's go!
+
+177
+00:00:00,000 --> 00:00:01,088
+<v Claire>Chris!
+
+178
+00:00:00,000 --> 00:00:01,440
+Nooo
+
+180
+00:00:00,000 --> 00:00:02,240
+<v Chris>Just go. I'll be fine.
+
+181
+00:00:00,000 --> 00:00:01,200
+<v Claire>But Chris!
+
+182
+00:00:00,000 --> 00:00:02,020
+<v Chris>You've got to save Steve. Go!
+
+195
+00:00:00,000 --> 00:00:01,200
+Steve?
+
+208
+00:00:00,000 --> 00:00:02,680
+<v Wesker>At last, I've found you, Alexia.
+
+209
+00:00:00,000 --> 00:00:01,200
+<v Wesker>Come with me!
+
+211
+00:00:00,000 --> 00:00:02,880
+<v Wesker>You're responsible for the creation of the T-Veronica virus.
+
+212
+00:00:00,000 --> 00:00:03,020
+<v Wesker>And now the only existing sample is in your body.
+
+213
+00:00:00,000 --> 00:00:01,760
+<v Wesker>I want it. Now!
+
+214
+00:00:00,000 --> 00:00:01,200
+<v Alexia>You want it?
+
+214
+00:00:01,960 --> 00:00:05,800
+<v Alexia>You are not worthy of its power!
+
+219
+00:00:00,000 --> 00:00:01,051
+<v Chris>Claire?
+
+220
+00:00:00,000 --> 00:00:01,200
+<v Chris>Is that you, Claire?
+
+224
+00:00:00,000 --> 00:00:01,840
+<v Chris>Hey, is Steve with you?
+
+227
+00:00:00,000 --> 00:00:01,200
+<v Chris>Listen, Claire.
+
+233
+00:00:00,000 --> 00:00:01,200
+<v Claire>You made it!
+
+234
+00:00:00,000 --> 00:00:03,000
+<v Chris>Of course! Come on! Let's get out of here!
+
+269
+00:00:00,000 --> 00:00:01,760
+Nooo
+
+274
+00:00:00,000 --> 00:00:01,200
+<v Claire>No!
+
+275
+00:00:04,360 --> 00:00:05,560
+Wait!
+
+278
+00:00:00,000 --> 00:00:01,200
+<v Claire>Don't say that!
+
+279
+00:00:00,000 --> 00:00:01,200
+<v Claire>Listen to me.
+
+280
+00:00:00,000 --> 00:00:02,860
+<v Claire>We'll escape from here. Together.
+
+281
+00:00:00,000 --> 00:00:01,200
+<v Claire>Come on!
+
+282
+00:00:00,000 --> 00:00:04,230
+<v Claire>We've got to shut off the gas. If we split up, we'll have a better chance of
+
+282
+00:00:04,280 --> 00:00:05,480
+<v Claire>stopping it.
+
+283
+00:00:00,000 --> 00:00:01,200
+<v Claire>Steve!
+
+284
+00:00:00,000 --> 00:00:01,200
+<v Claire>Don't forget!
+
+285
+00:00:00,000 --> 00:00:01,200
+<v Claire>We'll get out of here.
+
+286
+00:00:00,000 --> 00:00:01,200
+<v Claire>Together!
+
+289
+00:00:07,260 --> 00:00:12,830
+No! I can't do it! Who did this to you? That crazy woman
+
+289
+00:00:12,880 --> 00:00:18,090
+<v Steve>told me she was going to perform the same experiment on me
+
+289
+00:00:18,140 --> 00:00:23,320
+<v Steve>that she did on her own father. She's completely insane!
+
+293
+00:00:00,000 --> 00:00:01,200
+<v Claire>Steve!
+
+294
+00:00:00,000 --> 00:00:01,200
+<v Claire>No, wait!
+
+296
+00:00:00,000 --> 00:00:01,200
+<v Claire>Chris...
+
+297
+00:00:03,740 --> 00:00:06,660
+<v Claire>Steve, he...
+
+298
+00:00:00,000 --> 00:00:02,000
+<v Claire>No! I can't!
+
+300
+00:00:00,000 --> 00:00:04,660
+<v Claire>Chris, there should be a self-destruct system somewhere.
+
+300
+00:00:05,140 --> 00:00:10,480
+<v Claire>If you activate it, all the electronic locks might be deactivated.
+
+301
+00:00:00,000 --> 00:00:01,920
+<v Wesker>I came for Alexia.
+
+302
+00:00:00,000 --> 00:00:02,380
+<v Wesker>An organization hired me to capture her.
+
+312
+00:00:00,000 --> 00:00:01,280
+Whoa, what power!
+
+313
+00:00:00,000 --> 00:00:01,940
+Chris, you're here?
+
+326
+00:00:00,000 --> 00:00:01,200
+<v Steve>See you around, Claire!
+
+327
+00:00:00,000 --> 00:00:01,200
+<v Steve>Adios.
+
+332
+00:00:00,000 --> 00:00:01,220
+<v Steve>Chris Redfield.
+
+333
+00:00:00,000 --> 00:00:01,960
+<v Steve>Machine guns? For me?
+
+336
+00:00:00,000 --> 00:00:02,200
+<v Steve>I... I can't!
+
+338
+00:00:00,000 --> 00:00:01,200
+<v Steve>No!
+
+339
+00:00:00,000 --> 00:00:03,060
+<v Steve>Ugh, what are you doing here? We're running out of time!
+
+342
+00:00:00,000 --> 00:00:01,240
+<v Steve>It's all my fault!
+
+343
+00:00:00,000 --> 00:00:02,160
+<v Steve>I swear I'll protect you next time, Claire.
+
+344
+00:00:00,000 --> 00:00:02,320
+Ugh, Claire.
+
+348
+00:00:00,000 --> 00:00:01,200
+Claire Redfield.
+
+352
+00:00:00,000 --> 00:00:02,660
+<v Steve>Come on, let's go! What, are you scared?
+
+353
+00:00:00,000 --> 00:00:01,200
+Move it!
+
+356
+00:00:00,000 --> 00:00:03,480
+<v Chris>Following up on a lead given to me by Leon has brought me here.
+
+359
+00:00:00,000 --> 00:00:01,200
+<v Chris>Don't worry, Claire.
+
+359
+00:00:01,540 --> 00:00:02,940
+<v Chris>I'm coming to save you.
+
+360
+00:00:00,000 --> 00:00:03,060
+<v Chris>Claire, I'll take care of you now.
+
+365
+00:00:00,000 --> 00:00:01,052
+<v Chris>Claire?
+
+366
+00:00:00,000 --> 00:00:02,380
+<v Chris>No! The door won't open!
+
+368
+00:00:00,000 --> 00:00:01,460
+<v Chris>We have to get out of here immediately.
+
+369
+00:00:00,000 --> 00:00:01,300
+<v Chris>Can you unlock it from the inside?
+
+371
+00:00:00,000 --> 00:00:02,300
+<v Alexia>Who is there? Is someone at the corridor?
+
+373
+00:00:00,000 --> 00:00:03,400
+<v Alexia>N-nothing. I believe I must have been imagining things.
+
+375
+00:00:00,000 --> 00:00:04,500
+<v Computer>Please deposit any metallic items you have in the security box.
+
+376
+00:00:00,000 --> 00:00:03,750
+<v Computer>Biohazard contamination detected. Level 3.
+
+376
+00:00:03,800 --> 00:00:09,520
+<v Computer>Emergency shutters will close. All personnel evacuate immediately.
+
+377
+00:00:00,000 --> 00:00:04,180
+<v Computer>Biohazard contamination detected. Level S.
+
+377
+00:00:04,420 --> 00:00:10,010
+<v Computer>Instruction A executed. The following area has been
+
+377
+00:00:10,060 --> 00:00:14,990
+<v Computer>sealed off. Area C. Area F.
+
+377
+00:00:15,040 --> 00:00:16,960
+<v Computer>Area J.
+
+390
+00:00:00,000 --> 00:00:03,160
+<v Computer>Five minutes until detonation.
+
+392
+00:00:00,000 --> 00:00:04,980
+<v Steve>Huh? Hey! This thing's empty! You cheated me!
+
+393
+00:00:00,000 --> 00:00:01,200
+Arrgh! Steve!
+
+394
+00:00:00,000 --> 00:00:03,080
+The self-destruct system has been... That freak!
+
+394
+00:00:03,160 --> 00:00:05,880
+<v Steve>He's trying to blow us up along with the entire facility!
+
+394
+00:00:06,180 --> 00:00:08,920
+<v Steve>Come on, we gotta get to that airport! Right!
+
+395
+00:00:00,000 --> 00:00:02,980
+<v Computer>The self-destruct system has been activated.
+
+395
+00:00:03,630 --> 00:00:07,100
+<v Computer>All personnel evacuate immediately.
+
+398
+00:00:01,880 --> 00:00:04,200
+Hold on! Don't give up!
+
+402
+00:00:00,000 --> 00:00:01,200
+Whoa! No!
+
+403
+00:00:03,720 --> 00:00:05,600
+What's wrong?
+
+403
+00:00:12,540 --> 00:00:18,070
+Claire can't breathe. Claire,
+
+403
+00:00:18,120 --> 00:00:20,180
+help me.
+
+404
+00:00:00,000 --> 00:00:02,640
+<v Steve>Claire! What are you doing? Let's go!
+
+405
+00:00:00,000 --> 00:00:01,200
+<v Steve>Let's get out of here!
+
+406
+00:00:00,000 --> 00:00:01,200
+<v Steve>We gotta get to that airport!
+
+413
+00:00:02,760 --> 00:00:08,710
+<v Wesker>You have no idea how much I hate you. You destroyed my
+
+413
+00:00:08,760 --> 00:00:13,360
+<v Wesker>plans. So now I've sold my soul to a new organization.
+
+413
+00:00:14,460 --> 00:00:16,300
+<v Wesker>Now die.
+
+415
+00:00:03,560 --> 00:00:08,430
+<v Wesker>Here's a little secret, Chris. I figured out that your sister is now in the
+
+415
+00:00:08,480 --> 00:00:14,620
+<v Wesker>Antarctic. With Alexia. It's too bad you won't be seeing her again.
+
+417
+00:00:00,000 --> 00:00:02,940
+<v Claire>Alexia? There really is an Alexia?
+
+417
+00:00:04,920 --> 00:00:10,340
+<v Alexia>It is almost time, you genetically inferior siblings!
+
+423
+00:00:00,000 --> 00:00:04,700
+<v Computer>This facility will detonate in five minutes.
+
+424
+00:00:00,000 --> 00:00:02,320
+<v Computer>All doors are now unlocked.
+
+432
+00:00:00,000 --> 00:00:03,480
+<v Wesker>Chris, oh little fishy, come see my hook.
+
+433
+00:00:00,000 --> 00:00:01,620
+<v Wesker>You're coming with me.
+
+434
+00:00:00,000 --> 00:00:01,100
+Chris!
+
+435
+00:00:00,000 --> 00:00:01,200
+<v Chris>Wesker.
+
+437
+00:00:00,000 --> 00:00:01,080
+<v Wesker>Chris.
+
+438
+00:00:00,000 --> 00:00:01,580
+<v Wesker>Since you're one of my best men.
+
+439
+00:00:00,000 --> 00:00:01,840
+<v Wesker>I'll let you handle this.
+
+440
+00:00:00,000 --> 00:00:01,200
+<v Claire>Chris!
+
+443
+00:00:00,000 --> 00:00:01,170
+<v Wesker>Move.
+
+444
+00:00:00,000 --> 00:00:01,200
+<v Chris>Claire!
+
+445
+00:00:00,000 --> 00:00:01,179
+No!
+
+446
+00:00:00,000 --> 00:00:01,200
+<v Claire>Chris!
+
+448
+00:00:00,000 --> 00:00:04,220
+<v Wesker>Well done, Chris. It turns out that Alexia's work wasn't much of anything.
+
+448
+00:00:04,560 --> 00:00:07,920
+<v Wesker>So now the only thing left is revenge.
+
+449
+00:00:00,000 --> 00:00:02,540
+<v Chris>Let her go, Wesker! You don't want her!
+
+450
+00:00:00,000 --> 00:00:01,200
+<v Wesker>Fine.
+
+452
+00:00:00,000 --> 00:00:01,126
+<v Chris>Claire!
+
+455
+00:00:00,000 --> 00:00:05,840
+<v Wesker>Today's a good day. I came for Alexia, but killing you is even better.
+
+456
+00:00:00,000 --> 00:00:03,680
+<v Chris>Sorry to disappoint you, but Alexia is gone.
+
+457
+00:00:00,000 --> 00:00:04,560
+<v Wesker>That's no longer a concern to me. I have Steve to work with.
+
+458
+00:00:00,000 --> 00:00:01,200
+<v Chris>What?
+
+459
+00:00:00,000 --> 00:00:01,200
+Steve.
+
+460
+00:00:00,000 --> 00:00:03,686
+<v Wesker>In his body, there's still a living T-Alexia virus.
+
+461
+00:00:00,000 --> 00:00:01,960
+<v Wesker>Steve should be a good specimen.
+
+462
+00:00:00,000 --> 00:00:05,040
+<v Wesker>Maybe he'll come back alive, just as I did, and be able to see your sister again.
+
+463
+00:00:00,000 --> 00:00:01,200
+<v Chris>You freak!
+
+464
+00:00:00,000 --> 00:00:01,200
+<v Claire>Don't you touch him!
+
+465
+00:00:00,000 --> 00:00:01,200
+<v Wesker>I'm sorry, dear heart.
+
+466
+00:00:00,000 --> 00:00:01,940
+<v Wesker>But my men have already taken him.
+
+467
+00:00:00,000 --> 00:00:01,200
+<v Chris>You get out of here, Claire.
+
+468
+00:00:00,000 --> 00:00:01,200
+<v Claire>But what about...
+
+469
+00:00:00,000 --> 00:00:03,660
+<v Chris>As a surviving member of S.T.A.R.S., I have to finish this.
+
+470
+00:00:00,000 --> 00:00:02,600
+<v Claire>Okay, remember your promise.
+
+471
+00:00:00,000 --> 00:00:04,300
+<v Chris>I'll end this once and for all. Say hello to my comrades who you've killed.
+
+472
+00:00:00,000 --> 00:00:03,120
+<v Wesker>I don't know where you get your confidence, Chris.
+
+479
+00:00:00,000 --> 00:00:01,050
+Go!
+
+483
+00:00:00,000 --> 00:00:02,060
+<v Wesker>Sure, I'm not human anymore.
+
+490
+00:00:00,000 --> 00:00:03,000
+<v Wesker>But just look at the power I've gained!
+
+491
+00:00:00,000 --> 00:00:01,560
+<v Wesker>Magnificent!
+
+492
+00:00:00,000 --> 00:00:01,220
+<v Wesker>Don't you think?
+
+497
+00:00:00,000 --> 00:00:01,200
+<v Wesker>Nice try.
+
+498
+00:00:00,000 --> 00:00:01,200
+<v Chris>Wesker.
+
+501
+00:00:00,000 --> 00:00:01,640
+<v Wesker>Today's your lucky day.
+
+502
+00:00:00,000 --> 00:00:03,220
+<v Wesker>Next time we meet, don't count on another.
+
+503
+00:00:00,000 --> 00:00:01,200
+<v Chris>Next time.
+
+504
+00:00:00,000 --> 00:00:01,940
+<v Wesker>Until we meet again.
+
+506
+00:00:00,000 --> 00:00:03,720
+<v Computer>The self-destruct system has been activated.
+
+506
+00:00:03,980 --> 00:00:07,200
+<v Computer>All personnel evacuate immediately.
+

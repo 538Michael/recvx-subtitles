@@ -1,0 +1,40 @@
+1
+00:00:14,900 --> 00:00:16,400
+<v Claire>What are we going to do?
+
+2
+00:00:24,300 --> 00:00:27,450
+<v Chris>Okay. Turn the key clockwise simultaneously on three.
+
+3
+00:00:27,500 --> 00:00:28,500
+<v Claire>Got it.
+
+4
+00:00:36,600 --> 00:00:40,300
+<v Chris>One, two, three!
+
+5
+00:00:44,900 --> 00:00:47,800
+<v Computer>Initiating energy injection.
+
+6
+00:00:48,900 --> 00:00:55,900
+<v Computer>Warning. The safety box will not be released until charging is complete.
+
+7
+00:01:02,000 --> 00:01:05,200
+<v Chris>I'll keep her busy! Just go for the emergency elevator!
+
+8
+00:01:05,400 --> 00:01:06,250
+<v Claire>Chris, but...
+
+9
+00:01:06,300 --> 00:01:09,000
+<v Chris>I can take care of this! Just go!
+
+10
+00:01:11,600 --> 00:01:14,800
+<v Claire>You have to make it! Don't die on me!
+

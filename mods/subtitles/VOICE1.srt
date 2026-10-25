@@ -1,0 +1,1504 @@
+0
+00:00:00,000 --> 00:00:04,910
+<v Narrator>The American Midwestern town, Raccoon City, has been completely decimated due to the
+
+0
+00:00:04,960 --> 00:00:10,160
+<v Narrator>T-Virus outbreak that was instigated by the international corporation, Umbrella.
+
+1
+00:00:00,000 --> 00:00:04,550
+<v Narrator>Claire Redfield, who arrived in Raccoon City to search for her lost brother, Chris,
+
+1
+00:00:04,600 --> 00:00:09,430
+<v Narrator>and her rookie police officer, Leon S. Kennedy, managed to escape from the city,
+
+1
+00:00:09,480 --> 00:00:14,580
+<v Narrator>but their ordeal was only a prelude of things to come.
+
+2
+00:00:00,000 --> 00:00:01,320
+<v Narrator>Three months later.
+
+17
+00:00:00,000 --> 00:00:01,200
+Perfect.
+
+18
+00:00:00,000 --> 00:00:04,320
+<v Rodrigo>Go on. Get out of here. This place is finished.
+
+18
+00:00:05,160 --> 00:00:08,720
+<v Rodrigo>I don't know. It might have been a special forces team.
+
+18
+00:00:09,080 --> 00:00:11,830
+<v Rodrigo>But in any case, this prison's been taken over.
+
+18
+00:00:11,880 --> 00:00:14,120
+<v Rodrigo>Our troops have been wiped out.
+
+19
+00:00:00,000 --> 00:00:01,200
+<v Claire>What are you saying?
+
+20
+00:00:00,000 --> 00:00:01,940
+<v Rodrigo>You're free to leave the complex.
+
+21
+00:00:00,000 --> 00:00:03,020
+<v Rodrigo>But you may as well know you have no chance of getting off this island.
+
+22
+00:00:00,000 --> 00:00:02,200
+<v Claire>And what about you? What are you going to do?
+
+24
+00:00:00,000 --> 00:00:01,280
+<v Rodrigo>Don't worry about me.
+
+25
+00:00:00,000 --> 00:00:01,078
+<v Claire>No!
+
+28
+00:00:00,000 --> 00:00:01,560
+<v Steve>Wait, wait! Don't shoot!
+
+29
+00:00:00,000 --> 00:00:01,200
+<v Claire>Who are you?
+
+30
+00:00:00,000 --> 00:00:02,420
+<v Steve>Huh? You're not a zombie?
+
+31
+00:00:00,000 --> 00:00:00,989
+<v Claire>Well, great!
+
+32
+00:00:00,000 --> 00:00:01,200
+<v Steve>Wait right there!
+
+33
+00:00:00,000 --> 00:00:01,200
+<v Steve>I'm coming over!
+
+34
+00:00:00,000 --> 00:00:04,130
+<v Steve>Uh, sorry about that little misunderstanding, but I thought you were another one of
+
+34
+00:00:04,180 --> 00:00:05,380
+<v Steve>those monsters.
+
+35
+00:00:00,000 --> 00:00:01,084
+<v Claire>Shut up.
+
+36
+00:00:00,000 --> 00:00:01,740
+<v Claire>Make one wrong move and I'll shoot!
+
+37
+00:00:00,000 --> 00:00:01,220
+<v Steve>Relax, beautiful.
+
+38
+00:00:00,000 --> 00:00:01,200
+<v Steve>I said I was sorry.
+
+39
+00:00:00,000 --> 00:00:01,200
+<v Steve>My name's Steve.
+
+40
+00:00:00,000 --> 00:00:01,460
+<v Steve>I was a prisoner on this island.
+
+41
+00:00:00,000 --> 00:00:02,780
+<v Steve>And I'm guessing you're not from Umbrella either.
+
+42
+00:00:00,000 --> 00:00:02,660
+<v Claire>No, I'm Claire. Claire Redfield.
+
+43
+00:00:00,000 --> 00:00:01,194
+<v Steve>Claire.
+
+45
+00:00:00,000 --> 00:00:01,050
+<v Steve>Nice.
+
+46
+00:00:00,000 --> 00:00:01,200
+<v Steve>I'll remember that.
+
+47
+00:00:00,000 --> 00:00:00,999
+<v Steve>Hey!
+
+48
+00:00:00,000 --> 00:00:01,760
+<v Steve>I heard there's an airport around here.
+
+49
+00:00:00,000 --> 00:00:03,380
+<v Steve>Once I find it, I can finally escape from this crazy island!
+
+50
+00:00:00,000 --> 00:00:01,101
+<v Steve>Well, I'll see ya.
+
+51
+00:00:00,000 --> 00:00:01,200
+<v Claire>Hey, wait up!
+
+52
+00:00:00,000 --> 00:00:01,880
+<v Steve>I don't want you following me, lady!
+
+53
+00:00:00,000 --> 00:00:01,220
+<v Steve>You'll only slow me down.
+
+56
+00:00:00,000 --> 00:00:01,200
+<v Claire>What are you doing here?
+
+57
+00:00:00,000 --> 00:00:03,840
+<v Steve>Chris Redfield. Is he a relative of yours or something?
+
+58
+00:00:00,000 --> 00:00:01,200
+<v Claire>You mean my brother?
+
+60
+00:00:00,000 --> 00:00:01,200
+<v Steve>Your siblings.
+
+61
+00:00:00,000 --> 00:00:02,820
+<v Steve>Well, it seems your brother is under surveillance by Umbrella.
+
+62
+00:00:00,000 --> 00:00:01,195
+<v Claire>What?
+
+63
+00:00:00,000 --> 00:00:03,720
+<v Claire>I've got to contact Leon and tell him to let my brother know he's being monitored.
+
+64
+00:00:00,000 --> 00:00:03,180
+<v Claire>It's a good thing I have access to an outside connection from here.
+
+65
+00:00:00,000 --> 00:00:02,700
+<v Steve>Well, that file shows the latitude and longitude of this place.
+
+66
+00:00:00,000 --> 00:00:03,460
+<v Steve>Why don't you send your brother the coordinates and ask him to come help?
+
+67
+00:00:00,000 --> 00:00:01,720
+<v Claire>Thanks, I'll do that.
+
+68
+00:00:00,000 --> 00:00:01,680
+<v Steve>Hey! I was just kidding!
+
+69
+00:00:00,000 --> 00:00:02,700
+<v Steve>There's no way he could get here, even if he is your brother.
+
+70
+00:00:00,000 --> 00:00:01,760
+<v Claire>Yes, he can. I'm sure of it.
+
+71
+00:00:00,000 --> 00:00:02,160
+<v Steve>You'll just end up disappointed if you rely on others.
+
+72
+00:00:00,000 --> 00:00:01,340
+<v Steve>Believe me, I know!
+
+73
+00:00:00,000 --> 00:00:01,200
+<v Steve>No way.
+
+74
+00:00:00,000 --> 00:00:01,200
+<v Steve>He won't come.
+
+75
+00:00:00,000 --> 00:00:01,580
+<v Claire>What was that all about?
+
+76
+00:00:00,000 --> 00:00:02,240
+<v Claire>I can't get the door open!
+
+80
+00:00:00,000 --> 00:00:01,480
+<v Claire>That was close.
+
+86
+00:00:00,000 --> 00:00:02,080
+<v Steve>Yeah! Help me!
+
+90
+00:00:00,000 --> 00:00:01,200
+<v Claire>Steve?
+
+92
+00:00:00,000 --> 00:00:05,650
+<v Steve>That was too close. But I found something, thanks to
+
+92
+00:00:05,700 --> 00:00:06,900
+<v Steve>you.
+
+93
+00:00:00,000 --> 00:00:01,200
+<v Steve>Looks cool, huh?
+
+94
+00:00:00,000 --> 00:00:03,440
+<v Steve>Huh. Thought I wouldn't... make it.
+
+95
+00:00:00,000 --> 00:00:01,200
+<v Claire>Oh, I need those.
+
+96
+00:00:00,000 --> 00:00:01,200
+<v Claire>Give them to me.
+
+97
+00:00:01,860 --> 00:00:03,080
+<v Steve>I made it!
+
+98
+00:00:00,000 --> 00:00:01,840
+<v Steve>Huh, that was too close.
+
+99
+00:00:00,000 --> 00:00:01,200
+<v Steve>What took you so long?
+
+101
+00:00:00,000 --> 00:00:01,740
+<v Steve>Fine.
+
+102
+00:00:00,000 --> 00:00:01,240
+<v Steve>But let's make a deal.
+
+103
+00:00:00,000 --> 00:00:02,740
+<v Steve>I'll trade you for something fully automatic.
+
+104
+00:00:00,000 --> 00:00:01,129
+<v Steve>Fine.
+
+105
+00:00:00,000 --> 00:00:01,200
+<v Steve>Let's make a deal.
+
+106
+00:00:00,000 --> 00:00:02,420
+<v Steve>I'll trade you for something fully automatic.
+
+107
+00:00:00,000 --> 00:00:01,240
+<v Steve>You gotta be kidding.
+
+108
+00:00:00,000 --> 00:00:01,680
+<v Steve>I found it and I'm keeping it!
+
+111
+00:00:00,000 --> 00:00:01,200
+<v Steve>I'll see you around, Claire!
+
+112
+00:00:00,000 --> 00:00:01,200
+<v Steve>Adios!
+
+113
+00:00:00,000 --> 00:00:01,200
+<v Claire>Hey, wait! Steve!
+
+115
+00:00:00,000 --> 00:00:04,160
+<v Alfred>Redfield! How dare you interfere with my operation!
+
+116
+00:00:00,000 --> 00:00:01,620
+<v Claire>What are you talking about?
+
+117
+00:00:00,000 --> 00:00:04,500
+<v Alfred>You let yourself be captured so you could lead your people to this base!
+
+118
+00:00:00,000 --> 00:00:02,790
+<v Claire>I have no idea what you're babbling about!
+
+118
+00:00:02,840 --> 00:00:04,900
+<v Alfred>You don't fool me!
+
+118
+00:00:05,770 --> 00:00:10,700
+<v Alfred>I am Alfred Ashford, commander of this base!
+
+120
+00:00:00,000 --> 00:00:04,290
+<v Claire>Oh? You must be one of Umbrella's lower level officers if you're in command of a
+
+120
+00:00:04,340 --> 00:00:06,100
+<v Claire>backwater base like this one.
+
+121
+00:00:00,000 --> 00:00:01,340
+<v Alfred>How dare you!
+
+122
+00:00:00,000 --> 00:00:04,320
+<v Alfred>The Ashford family is among the world's first and finest.
+
+123
+00:00:00,000 --> 00:00:05,180
+<v Alfred>My grandfather is one of the original founders of Umbrella Inc.
+
+124
+00:00:00,000 --> 00:00:04,380
+<v Alfred>Now tell me, why have you attacked this installation?
+
+125
+00:00:00,000 --> 00:00:01,400
+<v Claire>Attacked!
+
+126
+00:00:00,000 --> 00:00:03,320
+<v Alfred>Shortly after you arrived, my base was attacked.
+
+126
+00:00:03,520 --> 00:00:06,520
+<v Alfred>You must have informed your people of its location.
+
+127
+00:00:00,000 --> 00:00:03,880
+<v Claire>I still don't follow you. I really don't know anything about that!
+
+128
+00:00:00,000 --> 00:00:05,430
+<v Alfred>Unacceptable! How can you deny it? My base has been
+
+128
+00:00:05,480 --> 00:00:11,330
+<v Alfred>destroyed, and thanks to you, the experimental T-Virus was released, creating
+
+128
+00:00:11,380 --> 00:00:14,320
+<v Alfred>countless zombies and monsters.
+
+129
+00:00:00,000 --> 00:00:05,120
+<v Alfred>Tell me, who do you work for? Who sent you?
+
+130
+00:00:00,000 --> 00:00:05,810
+<v Alfred>Ha ha ha! Have it your way then! You're just a rat in a cage
+
+130
+00:00:05,860 --> 00:00:07,060
+<v Alfred>anyway!
+
+130
+00:00:07,340 --> 00:00:12,860
+<v Alfred>I'll be sure to keep you entertained before I dispose of you!
+
+136
+00:00:00,000 --> 00:00:01,055
+<v Claire>Alfred!
+
+138
+00:00:00,000 --> 00:00:03,140
+<v Alfred>Welcome, Claire!
+
+139
+00:00:00,000 --> 00:00:05,130
+<v Alfred>Consider the area you are in a special playground
+
+139
+00:00:05,180 --> 00:00:09,040
+<v Alfred>I have prepared just for you.
+
+139
+00:00:09,860 --> 00:00:15,510
+<v Alfred>Please try and keep me amused, and do not disappoint me by
+
+139
+00:00:15,560 --> 00:00:21,290
+<v Alfred>dying too soon. I so want to enjoy
+
+139
+00:00:21,340 --> 00:00:22,780
+<v Alfred>this.
+
+140
+00:00:00,000 --> 00:00:02,480
+<v Steve>Haha! Oh yeah, that felt good!
+
+141
+00:00:00,000 --> 00:00:03,160
+<v Steve>Don't worry, Claire. Your knight in shining armor is here.
+
+142
+00:00:00,000 --> 00:00:02,580
+<v Claire>You wish. But thanks for the help.
+
+143
+00:00:00,000 --> 00:00:03,540
+<v Steve>See? This is why you need me. I got your back.
+
+144
+00:00:00,000 --> 00:00:01,200
+<v Claire>Whatever.
+
+147
+00:00:00,000 --> 00:00:03,300
+<v Claire>You know the deal, in exchange for your Lugers.
+
+148
+00:00:00,000 --> 00:00:02,360
+<v Steve>Okay, okay!
+
+149
+00:00:00,000 --> 00:00:02,280
+<v Steve>Haha, this thing is too cool!
+
+150
+00:00:00,000 --> 00:00:03,620
+<v Steve>Yes! Now this is my kind of weapon! Alright!
+
+152
+00:00:00,000 --> 00:00:02,680
+<v Claire>Up there, plenty of ammo, just for you.
+
+153
+00:00:00,000 --> 00:00:01,200
+<v Steve>Way up there?
+
+154
+00:00:00,000 --> 00:00:01,640
+<v Claire>Give me a boost and I'll get it for you.
+
+155
+00:00:00,000 --> 00:00:01,200
+<v Steve>All right, all right.
+
+156
+00:00:00,000 --> 00:00:04,200
+<v Steve>Ow! My back! You're heavier than you look!
+
+157
+00:00:00,000 --> 00:00:01,200
+<v Steve>Hurry up!
+
+158
+00:00:00,000 --> 00:00:01,200
+<v Claire>Happy now?
+
+159
+00:00:00,000 --> 00:00:01,305
+<v Steve>W-W-What?!
+
+160
+00:00:00,000 --> 00:00:05,430
+<v Alfred>Now that your knight has made his appearance, he can join you in your
+
+160
+00:00:05,480 --> 00:00:07,800
+<v Alfred>descent into death.
+
+161
+00:00:00,000 --> 00:00:01,720
+<v Steve>Okay, let's do it!
+
+162
+00:00:00,000 --> 00:00:01,200
+<v Steve>Wait here, Claire!
+
+163
+00:00:00,000 --> 00:00:02,020
+<v Steve>Time to test out my new toy!
+
+170
+00:00:00,000 --> 00:00:02,020
+<v Claire>What's wrong? Cold feet?
+
+171
+00:00:00,000 --> 00:00:01,200
+<v Claire>You're not done yet.
+
+174
+00:00:00,000 --> 00:00:03,380
+<v Claire>You still have plenty of ammo. You don't have to worry about holding back.
+
+175
+00:00:00,000 --> 00:00:02,920
+<v Claire>Do you want me to take care of this for you, little boy?
+
+176
+00:00:00,000 --> 00:00:03,440
+<v Steve>It was dirty work, but this area is now clean.
+
+177
+00:00:00,000 --> 00:00:03,200
+<v Steve>Hey Claire! I managed to clear a path for you!
+
+178
+00:00:00,000 --> 00:00:01,220
+<v Steve>It should be safe now!
+
+179
+00:00:00,000 --> 00:00:02,820
+<v Steve>They weren't even worth wasting the ammo needed to kill them!
+
+180
+00:00:00,000 --> 00:00:02,880
+<v Steve>Check it out! I pulled through without a scratch!
+
+180
+00:00:03,060 --> 00:00:05,640
+<v Steve>I even saved ammo for future use!
+
+181
+00:00:00,000 --> 00:00:01,200
+Come on!
+
+182
+00:00:00,000 --> 00:00:02,380
+<v Steve>See? You can depend on me.
+
+183
+00:00:00,000 --> 00:00:02,680
+<v Steve>Well, what do you think of my work?
+
+184
+00:00:00,000 --> 00:00:01,720
+<v Steve>I've been waiting for you, m'lady.
+
+185
+00:00:00,000 --> 00:00:03,780
+<v Steve>I would have killed more, but I thought that you needed a workout.
+
+186
+00:00:00,000 --> 00:00:01,070
+<v Steve>You see?
+
+186
+00:00:01,120 --> 00:00:03,860
+<v Steve>This thing is a lot more reliable than any person.
+
+187
+00:00:00,000 --> 00:00:02,967
+<v Claire>Than people?
+
+188
+00:00:00,000 --> 00:00:01,240
+<v Claire>What were you doing here?
+
+189
+00:00:00,000 --> 00:00:02,320
+<v Claire>Who brought you here and where is your family?
+
+190
+00:00:00,000 --> 00:00:01,200
+<v Claire>Steve.
+
+191
+00:00:00,000 --> 00:00:02,680
+<v Steve>Shut up! I don't want to talk about it!
+
+192
+00:00:00,000 --> 00:00:01,200
+<v Claire>Steve.
+
+193
+00:00:00,000 --> 00:00:01,200
+<v Steve>Nevermind.
+
+194
+00:00:00,000 --> 00:00:01,200
+<v Steve>Let's get going!
+
+199
+00:00:00,000 --> 00:00:01,800
+<v Steve>Claire, are you okay?
+
+200
+00:00:00,000 --> 00:00:01,380
+<v Claire>Steve, behind you!
+
+201
+00:00:00,000 --> 00:00:01,200
+<v Steve>No!
+
+202
+00:00:00,000 --> 00:00:01,820
+<v Claire>What's wrong, Steve? Shoot him!
+
+204
+00:00:00,000 --> 00:00:01,500
+<v Steve>Nooo!
+
+206
+00:00:00,000 --> 00:00:01,163
+<v Claire>Steve!
+
+209
+00:00:00,000 --> 00:00:03,185
+<v Steve>Father!
+
+211
+00:00:00,000 --> 00:00:01,200
+<v Claire>Steve.
+
+212
+00:00:00,000 --> 00:00:05,220
+<v Steve>Father, father, father.
+
+214
+00:00:00,000 --> 00:00:01,200
+<v Steve>Dad.
+
+214
+00:00:01,500 --> 00:00:03,100
+<v Steve>Used to work for Umbrella.
+
+214
+00:00:04,260 --> 00:00:05,740
+<v Steve>Tried to steal information.
+
+214
+00:00:07,140 --> 00:00:09,380
+<v Steve>Intending to sell it off to the highest bidder.
+
+214
+00:00:10,600 --> 00:00:11,800
+<v Steve>He was caught.
+
+214
+00:00:12,940 --> 00:00:14,220
+<v Steve>Mom was killed.
+
+214
+00:00:14,980 --> 00:00:16,440
+<v Steve>And we were sent here.
+
+215
+00:00:00,000 --> 00:00:01,200
+<v Claire>Oh, Steve.
+
+216
+00:00:00,000 --> 00:00:01,820
+<v Steve>He was a fool to do something so reckless.
+
+217
+00:00:00,000 --> 00:00:01,200
+<v Steve>So stupid.
+
+218
+00:00:00,000 --> 00:00:02,520
+<v Claire>It's okay now. Just rest.
+
+219
+00:00:00,000 --> 00:00:01,220
+<v Steve>I'm going to stay here.
+
+219
+00:00:02,120 --> 00:00:03,520
+<v Steve>A bit longer, Claire.
+
+220
+00:00:00,000 --> 00:00:01,200
+<v Steve>Father.
+
+220
+00:00:02,300 --> 00:00:03,500
+<v Steve>Father.
+
+221
+00:00:00,000 --> 00:00:01,680
+<v Steve>I have to give him a proper burial.
+
+222
+00:00:00,000 --> 00:00:03,000
+<v Steve>I am all alone now.
+
+223
+00:00:00,000 --> 00:00:01,460
+<v Steve>Why did this have to happen?
+
+224
+00:00:00,000 --> 00:00:01,200
+<v Rodrigo>Leave me alone.
+
+225
+00:00:00,000 --> 00:00:02,060
+<v Rodrigo>You'd better get out of here while you're still able.
+
+226
+00:00:00,000 --> 00:00:02,880
+<v Rodrigo>What are you still hanging around for? Get out of here!
+
+227
+00:00:00,000 --> 00:00:02,200
+<v Rodrigo>Don't think you can count on me in the future.
+
+227
+00:00:02,380 --> 00:00:03,640
+<v Rodrigo>Now get out of here.
+
+228
+00:00:00,000 --> 00:00:01,380
+<v Rodrigo>What are you doing here?
+
+229
+00:00:00,000 --> 00:00:01,200
+<v Rodrigo>Hemostatic Medicine.
+
+229
+00:00:01,620 --> 00:00:03,060
+<v Rodrigo>How kind of you.
+
+229
+00:00:03,820 --> 00:00:05,020
+<v Rodrigo>Thanks.
+
+230
+00:00:00,000 --> 00:00:01,780
+<v Claire>Here, let me help you with that.
+
+231
+00:00:00,000 --> 00:00:02,300
+<v Rodrigo>Thanks, but I can take care of myself.
+
+231
+00:00:02,920 --> 00:00:04,120
+<v Rodrigo>Just go.
+
+232
+00:00:00,000 --> 00:00:03,340
+<v Claire>Keep it. It was a gift from my brother, but...
+
+233
+00:00:00,000 --> 00:00:01,200
+<v Rodrigo>Thanks.
+
+233
+00:00:01,620 --> 00:00:05,820
+<v Rodrigo>Here, let me give you this in return. You might need it later on.
+
+234
+00:00:00,000 --> 00:00:01,200
+<v Rodrigo>Now go.
+
+234
+00:00:01,640 --> 00:00:02,940
+<v Rodrigo>Don't worry about me.
+
+236
+00:00:00,000 --> 00:00:03,070
+<v Alexia>Keep focused, brother. Our enemy is only a little girl.
+
+236
+00:00:03,120 --> 00:00:05,760
+<v Alexia>Oh, why is this taking so long?
+
+237
+00:00:00,000 --> 00:00:04,700
+<v Alfred>My apologies, Alexia, but I have been doing my best.
+
+238
+00:00:00,000 --> 00:00:03,540
+<v Alexia>The revival of the Ashford family depends on your success, brother.
+
+239
+00:00:00,000 --> 00:00:05,830
+<v Alfred>I am aware of that, Alexia. I will revive the family name myself
+
+239
+00:00:05,880 --> 00:00:10,780
+<v Alfred>and make you the master of the glorious Ashford family.
+
+240
+00:00:00,000 --> 00:00:03,920
+<v Alexia>Do not worry, brother. I will handle them both myself.
+
+242
+00:00:00,000 --> 00:00:01,660
+<v Alfred>What is it, Alexia?
+
+244
+00:00:00,000 --> 00:00:03,360
+<v Alexia>Nothing. I believe I must have been imagining things.
+
+245
+00:00:00,000 --> 00:00:01,200
+<v Alexia>Let us go, brother.
+
+247
+00:00:00,000 --> 00:00:02,680
+<v Alexia>Claire Redfield, hold it right there.
+
+249
+00:00:00,000 --> 00:00:03,760
+<v Alexia>We meet each other at last. A pity I must say goodbye so soon.
+
+250
+00:00:00,000 --> 00:00:05,900
+<v Alexia>I am Alexia Ashford. For the pride of the Ashford family, I will kill you!
+
+253
+00:00:00,000 --> 00:00:01,200
+<v Steve>What's going on?
+
+255
+00:00:00,000 --> 00:00:01,200
+<v Claire>Steve!
+
+256
+00:00:00,000 --> 00:00:01,200
+<v Claire>A secret door!
+
+257
+00:00:00,000 --> 00:00:01,220
+<v Steve>After her!
+
+258
+00:00:00,000 --> 00:00:01,200
+<v Claire>Are you okay?
+
+259
+00:00:00,000 --> 00:00:01,760
+<v Steve>I'm fine. It's just a scratch.
+
+260
+00:00:00,000 --> 00:00:03,020
+<v Steve>We better check the room over again. Well, just in case.
+
+262
+00:00:00,000 --> 00:00:01,200
+<v Claire>This must be...
+
+268
+00:00:00,000 --> 00:00:04,000
+<v Alfred>What? No! It... it...
+
+270
+00:00:00,000 --> 00:00:02,240
+<v Steve>Wait a second, what just happened?
+
+271
+00:00:00,000 --> 00:00:03,540
+<v Claire>So there never was an Alexia after all!
+
+272
+00:00:00,000 --> 00:00:04,230
+<v Steve>You mean, he thinks he's two people? Okay, that's it.
+
+272
+00:00:04,280 --> 00:00:05,520
+<v Steve>Let's get out of here!
+
+279
+00:00:00,000 --> 00:00:01,153
+<v Steve>Claire!
+
+281
+00:00:00,000 --> 00:00:01,440
+<v Steve>Those must be the remaining survivors!
+
+282
+00:00:00,000 --> 00:00:01,440
+<v Claire>We'd better get out of here too!
+
+284
+00:00:00,000 --> 00:00:01,400
+<v Steve>Right! Let's go!
+
+285
+00:00:00,000 --> 00:00:02,220
+<v Steve>We can't take off unless we raise the bridge!
+
+286
+00:00:00,000 --> 00:00:03,440
+<v Claire>Leave that to me! You stay here and make the preparations for takeoff!
+
+287
+00:00:00,000 --> 00:00:01,440
+<v Steve>We'll be ready for takeoff soon!
+
+288
+00:00:00,000 --> 00:00:01,560
+<v Steve>Let's get out of this madhouse!
+
+289
+00:00:00,000 --> 00:00:03,560
+<v Steve>All set. Got plenty of fuel. Hurry up and raise the bridge!
+
+303
+00:00:00,000 --> 00:00:03,120
+<v Alexia>I will not allow you fools to escape!
+
+304
+00:00:00,000 --> 00:00:03,280
+<v Alexia>This is what you get for trying to oppose me!
+
+305
+00:00:00,000 --> 00:00:02,500
+<v Alexia>Now feel my revenge!
+
+308
+00:00:00,000 --> 00:00:02,700
+<v Steve>What took you so long? I was starting to get worried!
+
+309
+00:00:00,000 --> 00:00:01,880
+<v Claire>No time to explain, let's go!
+
+310
+00:00:00,000 --> 00:00:03,780
+<v Steve>Right! We're outta here! Time to say goodbye to this death trap!
+
+311
+00:00:00,000 --> 00:00:01,420
+<v Steve>We made it! Yahoo!
+
+312
+00:00:00,000 --> 00:00:02,120
+<v Claire>Ugh, it's finally over!
+
+313
+00:00:00,000 --> 00:00:01,800
+<v Steve>Claire, I'm sorry.
+
+314
+00:00:00,000 --> 00:00:02,080
+<v Steve>I know I caused a lot of trouble for you.
+
+315
+00:00:00,000 --> 00:00:03,160
+<v Claire>No, it's okay. It was hard for both of us.
+
+316
+00:00:00,000 --> 00:00:02,060
+<v Steve>Well, I really hope you find your brother.
+
+316
+00:00:02,780 --> 00:00:06,000
+<v Steve>I... I know what it's like to be alone.
+
+317
+00:00:00,000 --> 00:00:01,200
+<v Claire>Oh, Steve.
+
+318
+00:00:00,000 --> 00:00:05,040
+<v Steve>So, where should we go now? I can take you anywhere you want to go, Claire.
+
+319
+00:00:00,000 --> 00:00:03,000
+<v Claire>I hear Hawaii's nice this time of year.
+
+322
+00:00:00,000 --> 00:00:01,200
+<v Steve>You got it!
+
+324
+00:00:00,000 --> 00:00:05,610
+<v Alexia>This game is not over yet. Now you will see what real terror
+
+324
+00:00:05,660 --> 00:00:07,440
+<v Alexia>is all about!
+
+325
+00:00:00,000 --> 00:00:01,760
+<v Steve>Hey! What the-
+
+326
+00:00:00,000 --> 00:00:01,460
+<v Steve>The cargo room hatch is open!
+
+327
+00:00:00,000 --> 00:00:02,580
+<v Steve>Thanks! I've unlocked the cargo room door!
+
+328
+00:00:00,000 --> 00:00:01,340
+<v Claire>I'll go back and check it out.
+
+329
+00:00:00,000 --> 00:00:01,200
+<v Steve>What was wrong?
+
+330
+00:00:00,000 --> 00:00:03,180
+<v Claire>Oh, nothing. Just a giant cockroach that had to be stepped on.
+
+331
+00:00:00,000 --> 00:00:01,200
+<v Claire>What's happening?
+
+332
+00:00:00,000 --> 00:00:03,080
+<v Steve>I don't know! The plane just changed direction on its own!
+
+333
+00:00:00,000 --> 00:00:03,860
+<v Steve>It's flying in autopilot mode! I can't switch over to manual control!
+
+334
+00:00:00,000 --> 00:00:04,700
+<v Alexia>My apologies, but I cannot let you escape now.
+
+336
+00:00:00,000 --> 00:00:02,640
+<v Claire>Alfred, you cross-dressing freak!
+
+337
+00:00:00,000 --> 00:00:01,720
+<v Steve>Hey, where are we?
+
+338
+00:00:00,000 --> 00:00:02,280
+<v Steve>Latitude, 82.17 degrees.
+
+339
+00:00:00,000 --> 00:00:02,100
+<v Steve>That's... the Antarctic.
+
+340
+00:00:00,000 --> 00:00:01,300
+<v Steve>We're over the Antarctic!
+
+341
+00:00:00,000 --> 00:00:01,200
+<v Claire>What?
+
+347
+00:00:00,000 --> 00:00:01,760
+Nooo
+
+351
+00:00:00,000 --> 00:00:01,980
+<v Claire>Here, take these.
+
+353
+00:00:00,000 --> 00:00:01,200
+<v Claire>No!
+
+355
+00:00:04,360 --> 00:00:05,560
+Wait!
+
+358
+00:00:00,000 --> 00:00:01,200
+<v Claire>Don't say that!
+
+359
+00:00:00,000 --> 00:00:01,200
+<v Claire>Listen to me.
+
+360
+00:00:00,000 --> 00:00:02,860
+<v Claire>We'll escape from here. Together.
+
+361
+00:00:00,000 --> 00:00:01,200
+<v Claire>Come on!
+
+362
+00:00:00,000 --> 00:00:04,230
+<v Claire>We've got to shut off the gas. If we split up, we'll have a better chance of
+
+362
+00:00:04,280 --> 00:00:05,480
+<v Claire>stopping it.
+
+363
+00:00:00,000 --> 00:00:01,200
+<v Claire>Steve!
+
+364
+00:00:00,000 --> 00:00:01,200
+<v Claire>Don't forget!
+
+365
+00:00:00,000 --> 00:00:01,200
+<v Claire>We'll get out of here.
+
+366
+00:00:00,000 --> 00:00:01,200
+<v Claire>Together!
+
+369
+00:00:07,260 --> 00:00:12,830
+No! I can't do it! Who did this to you? That crazy woman
+
+369
+00:00:12,880 --> 00:00:18,090
+<v Steve>told me she was going to perform the same experiment on me
+
+369
+00:00:18,140 --> 00:00:23,320
+<v Steve>that she did on her own father. She's completely insane!
+
+373
+00:00:00,000 --> 00:00:01,200
+<v Claire>Steve!
+
+374
+00:00:00,000 --> 00:00:01,200
+<v Claire>No, wait!
+
+376
+00:00:00,000 --> 00:00:01,200
+<v Claire>Chris...
+
+377
+00:00:03,740 --> 00:00:06,660
+<v Claire>Steve, he...
+
+378
+00:00:00,000 --> 00:00:02,000
+<v Claire>No! I can't!
+
+380
+00:00:00,000 --> 00:00:04,660
+<v Claire>Chris, there should be a self-destruct system somewhere.
+
+380
+00:00:05,140 --> 00:00:10,480
+<v Claire>If you activate it, all the electronic locks might be deactivated.
+
+381
+00:00:00,000 --> 00:00:01,920
+<v Wesker>I came for Alexia.
+
+382
+00:00:00,000 --> 00:00:02,380
+<v Wesker>An organization hired me to capture her.
+
+392
+00:00:00,000 --> 00:00:01,280
+Whoa, what power!
+
+393
+00:00:00,000 --> 00:00:01,940
+Chris, you're here?
+
+406
+00:00:00,000 --> 00:00:01,200
+<v Steve>See you around, Claire!
+
+407
+00:00:00,000 --> 00:00:01,200
+<v Steve>Adios.
+
+412
+00:00:00,000 --> 00:00:01,220
+<v Steve>Chris Redfield.
+
+413
+00:00:00,000 --> 00:00:01,960
+<v Steve>Machine guns? For me?
+
+416
+00:00:00,000 --> 00:00:02,200
+<v Steve>I... I can't!
+
+418
+00:00:00,000 --> 00:00:01,200
+<v Steve>No!
+
+419
+00:00:00,000 --> 00:00:03,060
+<v Steve>Ugh, what are you doing here? We're running out of time!
+
+422
+00:00:00,000 --> 00:00:01,240
+<v Steve>It's all my fault!
+
+423
+00:00:00,000 --> 00:00:02,160
+<v Steve>I swear I'll protect you next time, Claire.
+
+424
+00:00:00,000 --> 00:00:02,320
+Ugh, Claire.
+
+428
+00:00:00,000 --> 00:00:01,200
+Claire Redfield.
+
+432
+00:00:00,000 --> 00:00:02,660
+<v Steve>Come on, let's go! What, are you scared?
+
+433
+00:00:00,000 --> 00:00:01,200
+Move it!
+
+436
+00:00:00,000 --> 00:00:03,480
+<v Chris>Following up on a lead given to me by Leon has brought me here.
+
+439
+00:00:00,000 --> 00:00:01,200
+<v Chris>Don't worry, Claire.
+
+439
+00:00:01,540 --> 00:00:02,940
+<v Chris>I'm coming to save you.
+
+440
+00:00:00,000 --> 00:00:03,060
+<v Chris>Claire, I'll take care of you now.
+
+445
+00:00:00,000 --> 00:00:01,052
+<v Chris>Claire?
+
+446
+00:00:00,000 --> 00:00:02,380
+<v Chris>No! The door won't open!
+
+448
+00:00:00,000 --> 00:00:01,460
+<v Chris>We have to get out of here immediately.
+
+449
+00:00:00,000 --> 00:00:01,300
+<v Chris>Can you unlock it from the inside?
+
+451
+00:00:00,000 --> 00:00:02,300
+<v Alexia>Who is there? Is someone at the corridor?
+
+453
+00:00:00,000 --> 00:00:03,400
+<v Alexia>N-nothing. I believe I must have been imagining things.
+
+455
+00:00:00,000 --> 00:00:04,500
+<v Computer>Please deposit any metallic items you have in the security box.
+
+456
+00:00:00,000 --> 00:00:03,750
+<v Computer>Biohazard contamination detected. Level 3.
+
+456
+00:00:03,800 --> 00:00:09,520
+<v Computer>Emergency shutters will close. All personnel evacuate immediately.
+
+457
+00:00:00,000 --> 00:00:04,180
+<v Computer>Biohazard contamination detected. Level S.
+
+457
+00:00:04,420 --> 00:00:10,010
+<v Computer>Instruction A executed. The following area has been
+
+457
+00:00:10,060 --> 00:00:14,990
+<v Computer>sealed off. Area C. Area F.
+
+457
+00:00:15,040 --> 00:00:16,960
+<v Computer>Area J.
+
+470
+00:00:00,000 --> 00:00:03,160
+<v Computer>Five minutes until detonation.
+
+472
+00:00:00,000 --> 00:00:04,980
+<v Steve>Huh? Hey! This thing's empty! You cheated me!
+
+473
+00:00:00,000 --> 00:00:01,200
+Arrgh! Steve!
+
+474
+00:00:00,000 --> 00:00:03,080
+The self-destruct system has been... That freak!
+
+474
+00:00:03,160 --> 00:00:05,880
+<v Steve>He's trying to blow us up along with the entire facility!
+
+474
+00:00:06,180 --> 00:00:08,920
+<v Steve>Come on, we gotta get to that airport! Right!
+
+475
+00:00:00,000 --> 00:00:02,980
+<v Computer>The self-destruct system has been activated.
+
+475
+00:00:03,630 --> 00:00:07,100
+<v Computer>All personnel evacuate immediately.
+
+478
+00:00:01,880 --> 00:00:04,200
+Hold on! Don't give up!
+
+482
+00:00:00,000 --> 00:00:01,200
+Whoa! No!
+
+483
+00:00:03,720 --> 00:00:05,600
+What's wrong?
+
+483
+00:00:12,540 --> 00:00:18,070
+Claire can't breathe. Claire,
+
+483
+00:00:18,120 --> 00:00:20,180
+help me.
+
+484
+00:00:00,000 --> 00:00:01,200
+<v Steve>Let's get out of here!
+
+485
+00:00:00,000 --> 00:00:01,200
+<v Steve>We gotta get to that airport!
+
+486
+00:00:01,940 --> 00:00:03,640
+Nooo
+
+487
+00:00:00,000 --> 00:00:03,750
+<v Computer>Biohazard contamination detected. Level 3.
+
+487
+00:00:03,800 --> 00:00:09,520
+<v Computer>Emergency shutters will close. All personnel evacuate immediately.
+
+490
+00:00:00,000 --> 00:00:05,220
+<v Wesker>Greetings! You must be the lovely Claire Redfield.
+
+491
+00:00:00,000 --> 00:00:01,200
+<v Wesker>The Sister.
+
+493
+00:00:00,000 --> 00:00:01,200
+<v Claire>Who are you?
+
+494
+00:00:00,000 --> 00:00:05,960
+<v Wesker>Let's just say that I'm a ghost, coming back to haunt your dear brother.
+
+495
+00:00:00,000 --> 00:00:01,200
+<v Claire>Wesker?
+
+496
+00:00:00,000 --> 00:00:02,800
+<v Wesker>It seems there's not much explaining to do, is there?
+
+496
+00:00:02,880 --> 00:00:07,760
+<v Wesker>I was the one who attacked this island. Who'd have thought you'd be hanging about?
+
+497
+00:00:00,940 --> 00:00:06,860
+<v Wesker>All the better for me. Now that the cat dragged in this nice surprise,
+
+497
+00:00:07,020 --> 00:00:10,990
+<v Wesker>your ever-so-caring brother will definitely show up.
+
+497
+00:00:11,040 --> 00:00:14,160
+<v Wesker>I must thank you for being such good bait.
+
+498
+00:00:00,000 --> 00:00:02,630
+<v Claire>I don't know what went on between you two, but you have him all wrong.
+
+498
+00:00:02,680 --> 00:00:05,440
+<v Claire>My brother is not the kind of person you think he is.
+
+502
+00:00:00,000 --> 00:00:02,160
+<v Wesker>I despise Chris.
+
+503
+00:00:00,000 --> 00:00:02,180
+<v Claire>Ugh! What are you gonna do to him?
+
+512
+00:00:00,000 --> 00:00:04,200
+<v Wesker>Oh, how your brother will weep to see you die!
+
+516
+00:00:00,800 --> 00:00:05,740
+<v Wesker>Oh, how your brother will weep to see you die.
+
+517
+00:00:00,000 --> 00:00:01,200
+<v Wesker>What?
+
+517
+00:00:01,440 --> 00:00:02,640
+<v Wesker>What is it?
+
+517
+00:00:04,260 --> 00:00:06,620
+<v Wesker>Stay there. I'm coming.
+
+518
+00:00:00,000 --> 00:00:01,200
+<v Wesker>Lucky you.
+
+521
+00:00:00,000 --> 00:00:03,480
+<v Wesker>It appears you may be of some further use to me.
+
+521
+00:00:04,060 --> 00:00:07,440
+<v Wesker>I'm going to let you live a little longer.
+
+524
+00:00:00,000 --> 00:00:01,620
+<v Wesker>You're coming with me.
+

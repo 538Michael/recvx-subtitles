@@ -1,0 +1,64 @@
+16
+00:00:00,000 --> 00:00:01,980
+<v Computer>Initiating Final Countdown.
+
+17
+00:00:00,000 --> 00:00:01,200
+<v Computer>Ten.
+
+18
+00:00:00,000 --> 00:00:01,200
+<v Computer>Nine.
+
+19
+00:00:00,000 --> 00:00:01,200
+<v Computer>Eight.
+
+20
+00:00:00,000 --> 00:00:01,200
+<v Computer>Seven.
+
+21
+00:00:00,000 --> 00:00:01,200
+<v Computer>Six.
+
+22
+00:00:00,000 --> 00:00:01,200
+<v Computer>Five.
+
+23
+00:00:00,000 --> 00:00:01,200
+<v Computer>Four.
+
+24
+00:00:00,000 --> 00:00:01,200
+<v Computer>Three.
+
+25
+00:00:00,000 --> 00:00:01,200
+<v Computer>Two.
+
+26
+00:00:00,000 --> 00:00:01,200
+<v Computer>One.
+
+27
+00:00:00,000 --> 00:00:01,200
+<v Computer>Zero.
+
+28
+00:00:00,000 --> 00:00:01,980
+<v Computer>Initiating Final Countdown.
+
+29
+00:00:00,000 --> 00:00:01,980
+<v Computer>Initiating Final Countdown.
+
+30
+00:00:00,000 --> 00:00:01,980
+<v Computer>Initiating Final Countdown.
+
+31
+00:00:00,000 --> 00:00:01,980
+<v Computer>Initiating Final Countdown.
+

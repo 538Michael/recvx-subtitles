@@ -1,0 +1,28 @@
+1
+00:00:14,600 --> 00:00:19,100
+Your identification number is WKD-4496.
+
+2
+00:00:19,600 --> 00:00:21,700
+Welcome to your new home.
+
+3
+00:00:24,800 --> 00:00:26,350
+<v Rodrigo>Her name is Claire Redfield.
+
+4
+00:00:26,400 --> 00:00:29,950
+<v Rodrigo>We caught her trespassing in our Paris lab facility ten days ago.
+
+5
+00:00:30,000 --> 00:00:34,650
+<v Rodrigo>She apparently infiltrated the complex looking for her lost brother, Chris Redfield,
+
+6
+00:00:34,700 --> 00:00:38,500
+<v Rodrigo>one of the surviving members of RPD's famous S.T.A.R.S. team.
+
+7
+00:02:01,800 --> 00:02:03,000
+Don't move.
+

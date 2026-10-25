@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,550
+<v Steve>Are you ready? I'm gonna bust through that wall!
+
+2
+00:00:02,600 --> 00:00:03,900
+<v Claire>Go for it!
+
+3
+00:00:37,200 --> 00:00:38,200
+Right!
+
+4
+00:00:47,100 --> 00:00:49,900
+<v Steve>Claire! Maybe we can escape through there!
+
+5
+00:00:55,700 --> 00:00:57,100
+<v Claire>Come on, let's go!
+

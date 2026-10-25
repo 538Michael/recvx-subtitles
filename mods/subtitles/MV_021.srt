@@ -1,0 +1,40 @@
+1
+00:00:04,100 --> 00:00:06,700
+<v Claire>Chris, where are you?
+
+2
+00:00:30,600 --> 00:00:31,600
+<v Claire>Chris!
+
+3
+00:00:33,300 --> 00:00:36,000
+<v Chris>Hey, you know that I always keep my promises.
+
+4
+00:00:46,400 --> 00:00:50,750
+<v Claire>Chris, promise me. Please promise that you won't leave me alone again.
+
+5
+00:00:50,800 --> 00:00:53,550
+<v Chris>I'm sorry, Claire, but it's not over yet.
+
+6
+00:00:53,600 --> 00:00:55,550
+<v Chris>There's still something we've got to do.
+
+7
+00:00:55,600 --> 00:00:56,950
+<v Claire>You mean...
+
+8
+00:00:57,000 --> 00:00:59,900
+<v Chris>Yeah. It's payback time.
+
+9
+00:01:00,100 --> 00:01:02,050
+<v Chris>We've got to destroy Umbrella.
+
+10
+00:01:02,100 --> 00:01:05,800
+<v Chris>Now, let's finish this once and for all!
+

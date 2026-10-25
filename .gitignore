@@ -1,0 +1,6 @@
+ps3-font/.venv/
+ps3-font/build/
+ps3-font/dist/
+*.spec
+__pycache__/
+*.zip
