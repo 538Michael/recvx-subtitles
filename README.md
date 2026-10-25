@@ -23,7 +23,7 @@ cutscenes, in 13 languages.
   [pull request #76](https://github.com/aikatore/recvx-enhanced-port/pull/76). Until it is part of
   an official release, use the build
   [recvx-enhanced-port 0.7.0](https://github.com/538Michael/recvx-enhanced-port/releases/tag/v0.7.0)
-  (0.6.9 plus subtitle support).
+  (0.6.10 plus subtitle support).
 - Your own US PS2 disc image (SLUS-20184), as the port always needs.
 
 ## Install
