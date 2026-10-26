@@ -19,11 +19,10 @@ cutscenes, in 13 languages.
 
 ## Requirements
 
-- **recvx-enhanced-port with subtitle support.** Subtitles are proposed for the official port in
-  [pull request #76](https://github.com/aikatore/recvx-enhanced-port/pull/76). Until it is part of
-  an official release, use the build
-  [recvx-enhanced-port 0.7.0](https://github.com/538Michael/recvx-enhanced-port/releases/tag/v0.7.0)
-  (0.6.10 plus subtitle support).
+- **recvx-enhanced-port with subtitle support.** The official port has none; use the build
+  [recvx-enhanced-port 0.8.0](https://github.com/538Michael/recvx-enhanced-port/releases/tag/v0.8.0)
+  (0.6.10 plus subtitles and game languages; a Brazilian Portuguese pack for the game itself is at
+  [recvx-ptbr](https://github.com/538Michael/recvx-ptbr)).
 - Your own US PS2 disc image (SLUS-20184), as the port always needs.
 
 ## Install
